@@ -383,7 +383,7 @@ body.dark #moon{
  bottom: 0;
  margin-bottom: 30px;
  width: 500px;
- border-radius: 15px;
+ border-radius: 15px 15px;
  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 .clients{
